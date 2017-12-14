@@ -5,8 +5,6 @@ Inspiration came from this place:
 
 http://www.trial-n-error.de/posts/2012/12/31/logitech-k810-keyboard-configurator/
 
-<a href="google.com">hello</a>
-
 Mario made this tool for k810, I simply re-traced his steps for k480.
 My current configuration is Ubuntu 14.10 with k480 connected through some old d-link bluetooth adapter (on a desktop machine). 
 Steps:
